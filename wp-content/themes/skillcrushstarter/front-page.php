@@ -15,7 +15,7 @@ get_header(); ?>
 					<a href="https://www.linkedin.com/in/shari-kahn-1308801b3/" class="soc-icon ln"><span class="screen-reader-text">LinkedIn</span></a>
 					<a href="https://github.com/kahn-s" class="soc-icon gh"><span class="screen-reader-text">GitHub</span></a>
 				</div>
-				<a href="<?php echo site_url('/blog/'); ?>" class="btn">View My Blog</a>
+				<a href="<?php echo site_url('/portfolio/'); ?>" class="btn">View My Portfolio</a>
 			<?php endwhile; ?>
 		</div>
 	</div>
